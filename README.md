@@ -1,13 +1,13 @@
-# sosmex_ios
+# SOSMex iOs
 
-Project description
+<Project description>
 
-## Instalation
+## Installation
 
-Inside /SOSMex oen a terminal an install pods 
-
-iIf you don't hace installed CocoaPods, see: [CocoaPods](https://cocoapods.org/)
+Inside /SOSMex open a terminal an install pods using:
 
 ```bash
 $ pod install
 ```
+
+If you don't have installed CocoaPods, see: [CocoaPods](https://cocoapods.org/)
